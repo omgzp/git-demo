@@ -24,5 +24,14 @@ git staus
 ```
 git commit -m "feat:添加文件到本地仓库"
 ```
-* 
+* 新建本地分支
+
+```
+git checkout -b test
+```
+* 新建远程分支
+
+```
+git branch origin dev:dev
+```
 
